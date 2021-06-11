@@ -35,10 +35,10 @@ Sunday       41 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 8 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
