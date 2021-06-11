@@ -17,3 +17,6 @@ jobs:
           SHOW_SHORT_INFO: FALSE
           SHOW_PROFILE_VIEWS: FALSE
           SHOW_LOC_CHART: FALSE
+          SHOW_LANGUAGE: FALSE
+          SHOW_PROJECTS: FALSE
+          
