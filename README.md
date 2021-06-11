@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning data link and session layer
 - 📫 Message me on mail developer@kangketik.web.id
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangketikonlen&count_private=true&show_icons=true&theme=tokyonight)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
