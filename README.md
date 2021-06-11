@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kangketikonlen
-- 👀 I’m interested in physical layer, transport layer and apps layer
-- 🌱 I’m currently learning data link and session layer
+- 👀 I’m interested in :computer: physical layer, :truck: transport layer and :floppy_disk: apps layer
+- 🌱 I’m currently learning :electric_plug: data link and :mag_right: session layer
 - 📫 Message me on mail developer@kangketik.web.id
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangketikonlen&count_private=true&show_icons=true&theme=tokyonight)
