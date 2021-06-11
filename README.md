@@ -1,3 +1,8 @@
+- 👋 Hi, I’m @kangketikonlen
+- 👀 I’m interested in physical layer, transport layer and apps layer
+- 🌱 I’m currently learning data link and session layer
+- 📫 Message me on mail developer@kangketik.web.id
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
