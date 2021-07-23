@@ -8,25 +8,30 @@
  <br />
  <img src="https://walfiegif.files.wordpress.com/2021/02/out-transparent-7.gif?w=371&h=278" width="200"/>
 </p>
-<p align="center">
- <samp>
-  🌱 Currently learning about game development & cloud computing 🌱<br />
-  👀 Looking to collaborate on game dev projects 👀<br />
- </samp>
-</p>
-<p align="center">
-  <a href="https://github.com/kangketikonlen"><img src="https://github-readme-stats.vercel.app/api?username=kangketikonlen&count_private=true&show_icons=true&theme=tokyonight" alt="kangketikonlen's github stats"></a>
-</p>
-<p align="center">
- <samp>
-  Let's be friend 🤝 and chat 💬 just follow the link below 👇 and you can find me. <br />
-  Come on, don't be shy 🥰<br />
- </samp>
-</p>
-<p align="center">
-  <strong><a href="https://www.kangketik.web.id">Website</a></strong> |
-  <strong><a href="https://twitter.com/kangketikonlen">Twitter</a></strong>
-</p>
-<p align="center">
- <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-52.gif" width="250"/>
-</p>
+
+<details align="center">
+ <summary> <b> <samp> Click me? </samp></b></summary>
+ <p align="center">
+  <b><h4 style="color: #fc6203"><samp>N O I C E &nbsp; F O L L O W &nbsp; M E !</samp></h4> </b>
+  <p align="center">
+   <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-52.gif" width="250"/>
+  </p>
+  <samp>
+   🌱 Currently learning about game development & cloud computing 🌱<br />
+   👀 Looking to collaborate on game dev projects 👀<br />
+  </samp>
+ </p>
+ <p align="center">
+   <a href="https://github.com/kangketikonlen"><img src="https://github-readme-stats.vercel.app/api?username=kangketikonlen&count_private=true&show_icons=true&theme=tokyonight" alt="kangketikonlen's github stats"></a>
+ </p>
+ <p align="center">
+  <samp>
+   Let's be friend 🤝 and chat 💬 just follow the link below 👇 and you can find me. <br />
+   Come on, don't be shy 🥰<br />
+  </samp>
+ </p>
+ <p align="center">
+   <strong><a href="https://www.kangketik.web.id">Website</a></strong> |
+   <strong><a href="https://twitter.com/kangketikonlen">Twitter</a></strong>
+ </p>
+</detail>
