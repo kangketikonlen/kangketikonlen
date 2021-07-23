@@ -3,35 +3,41 @@
  <samp>
   Hello World! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kangketik.web.id">Gilang</a></b>.
   <br />
-  A Programer interested in RaspberryPi, Python and Linux.
+  A Programer from Indonesia that interested in RaspberryPi, Python and Linux.
  </samp>
  <br />
  <img src="https://walfiegif.files.wordpress.com/2021/02/out-transparent-7.gif?w=371&h=278" width="200"/>
 </p>
 
 <details align="center">
- <summary> <b> <samp> Click me? </samp></b></summary>
- <p align="center">
-  <b><h4 style="color: #fc6203"><samp>N O I C E &nbsp; F O L L O W &nbsp; M E !</samp></h4> </b>
+ <summary> <b> <samp> 😉 Hey, psst.. click me here... </samp></b></summary>
+ <samp>
   <p align="center">
-   <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-52.gif" width="250"/>
+   <b><h4 style="color: #fc6203">N O I C E 👌🏻 &nbsp; F O L L O W &nbsp; M E !</h4> </b>
+   <p align="center">
+    <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-52.gif" width="250"/>
+   </p>
+    🌱 Currently learning about game development & cloud computing 🌱<br />
+    👀 Looking to collaborate on visual novel & text based game related open source projects 👀<br />
   </p>
-  <samp>
-   🌱 Currently learning about game development & cloud computing 🌱<br />
-   👀 Looking to collaborate on game dev projects 👀<br />
-  </samp>
- </p>
- <p align="center">
-   <a href="https://github.com/kangketikonlen"><img src="https://github-readme-stats.vercel.app/api?username=kangketikonlen&count_private=true&show_icons=true&theme=tokyonight" alt="kangketikonlen's github stats"></a>
- </p>
- <p align="center">
-  <samp>
-   Let's be friend 🤝 and chat 💬 just follow the link below 👇 and you can find me. <br />
-   Come on, don't be shy 🥰<br />
-  </samp>
- </p>
- <p align="center">
-   <strong><a href="https://www.kangketik.web.id">Website</a></strong> |
-   <strong><a href="https://twitter.com/kangketikonlen">Twitter</a></strong>
- </p>
+  <p align="center">
+    <a href="https://github.com/kangketikonlen"><img src="https://github-readme-stats.vercel.app/api?username=kangketikonlen&count_private=true&show_icons=true&theme=tokyonight" alt="kangketikonlen's github stats"></a>
+  </p>
+  <p align="center">
+    Let's be friend 🤝 and chat 💬 just follow the link below 👇 and you can find me. <br />
+    Come on, don't be shy 🥰 I won't bite you.<br />
+  </p>
+  <p align="center">
+    <strong><a href="https://www.kangketik.web.id">Website</a></strong> |
+    <strong><a href="https://twitter.com/kangketikonlen">Twitter</a></strong>
+  </p>
+  <hr />
+  <p align="center">
+   🙃 <b>Fun fact</b>: Why are elevator jokes so classic and good? <strike>They work on many levels</strike>.<br />
+  </p>
+  <hr />
+  <p align="center">
+    &copy;Images are belongs to <a href="https://www.hololive.tv/" target="_blank">Hololive</a>
+  </p>
+ </samp>
 </detail>
