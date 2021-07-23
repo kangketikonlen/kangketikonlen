@@ -6,7 +6,7 @@
   A Programer from Indonesia that interested in RaspberryPi, Python and Linux.
  </samp>
  <br />
- <img src="https://walfiegif.files.wordpress.com/2021/02/out-transparent-7.gif?w=371&h=278" width="200"/>
+ <img src="https://raw.githubusercontent.com/kangketikonlen/kangketikonlen/main/assets/watollie.gif" width="200"/>
 </p>
 
 <details align="center">
@@ -15,7 +15,7 @@
   <p align="center">
    <b><h4 style="color: #fc6203">N O I C E 👌🏻 &nbsp; F O L L O W &nbsp; M E !</h4> </b>
    <p align="center">
-    <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-52.gif" width="250"/>
+    <img src="https://raw.githubusercontent.com/kangketikonlen/kangketikonlen/main/assets/hololive_en_parade.gif" width="250"/>
    </p>
     🌱 Currently learning about game development & cloud computing 🌱<br />
     👀 Looking to collaborate on visual novel & text based game related open source projects 👀<br />
