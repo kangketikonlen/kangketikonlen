@@ -6,7 +6,8 @@
   A Programer from Indonesia that interested in RaspberryPi, Python and Linux.
  </samp>
  <br />
- <img src="https://raw.githubusercontent.com/kangketikonlen/kangketikonlen/main/assets/watollie.gif" width="200"/>
+ <img src="https://raw.githubusercontent.com/kangketikonlen/kangketikonlen/main/assets/watollie.gif" width="200"/><br />
+ <a href="https://wakatime.com/@37603341-0f69-46c6-bee2-0d6fe4d41b08"><img src="https://wakatime.com/badge/user/37603341-0f69-46c6-bee2-0d6fe4d41b08.svg" alt="Total time coded since Jun 11 2021" /></a>
 </p>
 
 <details align="center">
