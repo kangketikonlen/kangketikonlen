@@ -29,7 +29,7 @@
     Come on, don't be shy 🥰 I won't bite you.<br />
   </p>
   <p align="center">
-    <strong><a href="https://www.kangketik.web.id">Website</a></strong> |
+    <strong><a href="https://www.kangketik.online">Website</a></strong> |
     <strong><a href="https://twitter.com/kangketikonlen">Twitter</a></strong> |
     <strong><a href="https://www.facebook.com/tukangketikonlen">Facebook</a></strong>
   </p>
